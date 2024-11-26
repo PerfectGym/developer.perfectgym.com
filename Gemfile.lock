@@ -101,7 +101,7 @@ GEM
       nokogiri (~> 1.6.4)
     parallel (1.8.0)
     pkg-config (1.1.7)
-    rack (1.6.4)
+    rack (1.6.13)
     rack-protection (1.5.3)
       rack
     rack-ssl-enforcer (0.2.9)
