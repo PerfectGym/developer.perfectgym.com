@@ -18,7 +18,7 @@ gem 'adsf'
 gem 'builder', '~> 3.2'
 
 group :development do
-  gem 'nokogiri', '~> 1.6.8.rc3'
+  gem 'nokogiri', '~> 1.6.8'
   gem 'rake', '10.3.2'
   gem 'awesome_print', '1.6.1'
 end
